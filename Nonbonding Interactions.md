@@ -58,6 +58,8 @@ When a charged solute is dissolved in a solvent with a dipole moment, the electr
 
 Since the hydrogen bond is a simple Coulombic interaction, and partial negetive charge can accept a hydrogen bond, not just electronegative atoms, but even Π systems.
 
+本质：a certain amount charge is transferred from Lewis base into σ*(A-H) antibonding orbital of the hydrogen donor. The D-H is weaken, lengthen.
+
 hydrogen bond strengths are roughly broken into 3 categories: 1) strong(15-40kacl/mol) 2)moderate(4-14kcal/mol) 3) weak (0-4kcal/mol, the most common hydrogen bonds)
 
 ​	影响氢键作用强弱的因素：

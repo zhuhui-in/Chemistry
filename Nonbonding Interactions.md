@@ -28,7 +28,7 @@ A salt bridge is an ion pair between two side chains of a protein. The anion fro
 
 ##### 2.1 Ion-Dipole interactions
 
-When a charged solute is dissolved in a solvent with a dipole moment, the electri field associated with the charge exerts a force on the dipole, orienting the oppositely charged end of the charge.
+When a charged solute is dissolved in a solvent with a dipole moment, the electric field associated with the charge exerts a force on the dipole, orienting the oppositely charged end of the charge.
 
 ![](https://raw.githubusercontent.com/zhuhui-in/image/master/4.png)
 
@@ -73,6 +73,10 @@ hydrogen bond strengths are roughly broken into 3 categories: 1) strong(15-40kac
 4. secondary interaction in hydrogen bonding systems. 氢键之间相互影响，削弱或增强。
 
 5. Cooperativity in hydrongen bonds. 有机物质会在水中自动凝聚，使得有机物质周围的水的氢键作用增加。
+
+Optimal heavy atom distance is 2.8-3.2A, linear geometry is ideal
+above 3.8 partners are too far away for a significant interaction
+below 2.5A partners will experience a steric clash
 
    
 #### [Helogen bond](https://github.com/zhuhui-in/Chemistry/blob/main/Halogen%20bonding%20%20the%20%CF%83%20hole.md)
@@ -134,7 +138,7 @@ induced-dipole-induced-dipole interaction is an electron correlation effect. The
 
 #### 6. The hydrophobic effects
 
-表现：1.溶解性小，2.有机物质倾向于聚在一起，减少和水的接触面积。X cal/mol*A^2
+表现：1.溶解性小，2.有机物质倾向于聚在一起，减少和水的接触面积,因为极性基团和极性溶剂之间形成相互作用又要额外吸收能量。X cal/mol*A^2
 
 聚集在一起的形式有vesicle, micelle, bilayer
 
